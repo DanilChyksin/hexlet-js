@@ -2,6 +2,7 @@
   "devDependencies": {
     "lodash": "^4.17.23"
   },
+  type: "module",
   "name": "hexlet-js",
   "description": "# Version 0.0.1",
   "version": "1.0.0",
